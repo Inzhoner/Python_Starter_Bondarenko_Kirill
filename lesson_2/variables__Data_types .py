@@ -65,11 +65,9 @@ print(part_upper1)  # "My name is ANDRII"
 
 print(part_upper)  # "MY name is Andrii"
 
-
 # //Для перевірки регістру:
 print(total_str.isupper())  # False
 print("HELLO".isupper())  # True
-
 
 #! Особливості цих методів:
 # //Враховують тільки літери (A-Z/a-z).
