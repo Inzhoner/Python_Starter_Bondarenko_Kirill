@@ -46,7 +46,7 @@ print(len(total_str))  # Довжина строки (17 символів)
 print(total_str.upper())  # Перетворює всю строку у верхній регістр
 print(total_str.lower())  # Перетворює всю строку у нижній регістр
 
-# //lowre  upper не змінює значення змінної
+# //lower upper не змінює значення змінної
 
 
 # //Корисні додатки:
@@ -79,4 +79,30 @@ print("A B C".isupper())  # True (пробіли ігноруються)
 #! Методи upper(), lower() повертають новий рядок, а не змінюють оригінал.
 
 
-#  14.03
+#  +Числа - (int-15.14)
+
+q = 2
+w = 5
+
+print(q + w, q - w, q * w, q / w, q % w, q % w)
+
+
+#  +Логічні типи (False  True)
+
+x = True
+y = False
+
+print(x, y)
+
+print(bool(1))  # True
+print(bool(10))  # True
+print(bool(0))  # False
+print(bool())  # False
+
+# // Оператори порівняння
+# ==
+# _ !=
+# >
+# <
+# <=
+# >=
