@@ -13,8 +13,7 @@
           <option name="type" value="?" />
         </CustomTag>
         <CustomTag>
-          <option name="color" value="#474747" />
-          <option name="hasStrikethrough" value="true" />
+          <option name="color" value="#990099" />
           <option name="type" value="//" />
         </CustomTag>
         <CustomTag>
@@ -24,6 +23,20 @@
         <CustomTag>
           <option name="color" value="#98C379" />
           <option name="type" value="*" />
+        </CustomTag>
+        <CustomTag>
+          <option name="color" value="#00FFCC" />
+          <option name="type" value="=" />
+        </CustomTag>
+        <CustomTag>
+          <option name="bold" value="true" />
+          <option name="color" value="#FF00FF" />
+          <option name="hasUnderline" value="true" />
+          <option name="type" value="+" />
+        </CustomTag>
+        <CustomTag>
+          <option name="color" value="#00CC00" />
+          <option name="type" value="-" />
         </CustomTag>
       </list>
     </option>
